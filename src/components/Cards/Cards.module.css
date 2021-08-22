@@ -1,0 +1,28 @@
+.container {
+  margin: 50px 0;
+}
+
+.card {
+  margin: 0 2% !important;
+}
+
+.infected {
+  background-image: url("./cardsImages//infe.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black !important;
+}
+
+.recovered {
+  background-image: url("./cardsImages//rec.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black !important;
+}
+
+.deaths {
+  background-image: url("./cardsImages//death.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black !important;
+}
